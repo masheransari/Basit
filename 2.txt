@@ -1,0 +1,22 @@
+"git 2" 
+<<<<<<< 3373f2af93dffc7abb25d392399635f69901557f
+<<<<<<< HEAD
+new file in git NewBranch 
+=======
+<<<<<<< Updated upstream
+=======
+new file in git NewBranch 
+
+fasc
+>>>>>>> Stashed changes
+sdcuhjdscub
+askdjnvasldv
+askjvnaslnv
+ascvadskjl8vnfv
+>>>>>>> newBranch
+jabsndfkjern
+asdfari
+l
+=======
+new file in git NewBranch 
+>>>>>>> new Fie in new Branch
